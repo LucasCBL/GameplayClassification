@@ -28,5 +28,5 @@ Una vez completado el ultimo nivel se puede cerrar el juego con alt+f4.
 Los datos generados estarán contenidos en Game Executable/assets/OUTPUT_DATA/player****
 
 ## Generar datos y bots:
-Para esto es necesario crear un proyecto de unity y añadir los assets incluidos en este github o descargar el proyecto entero en __,
+Para esto es necesario crear un proyecto de unity y añadir los assets incluidos en este github o descargar el proyecto entero en https://drive.google.com/file/d/1l8n_VcYrQD_gIgMsNvO9-4qBKeAURZaZ/view?usp=sharing,
 tras esto si queremos crear o modificar los bots podemos hacerlo en la carpeta assets/bots , y si queremos generar datos simplemente ejecutamso el juego desde el editor y nos metemos por la puerta derecha, tras lo cual comenzará la generación de datos. 
