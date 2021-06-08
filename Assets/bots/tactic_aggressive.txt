@@ -1,0 +1,29 @@
+#attacks if low health and enemy less than 10 health
+# random_mov mov_enemy mov_goal mov_from_enemy get_coin range_attack
+20 70 10 0 0 0
+# h_min h_max enemy_min enemy_max goal_max enem_h_max coin_range detect_coin detect_enemy
+0 20 0 3 0 20 0 0 0
+#
+#runs if low health and enemy close with more than 10 health
+# random_mov mov_enemy mov_goal mov_from_enemy get_coin range_attack
+20 0 10 70 0 0
+# h_min h_max enemy_min enemy_max goal_max enem_h_max coin_range detect_coin detect_enemy
+0 20 0 3 0 0 0 0 0
+#
+#ranged attacks if health less than half and enemies medium range
+# random_mov mov_enemy mov_goal mov_from_enemy get_coin range_attack
+10 10 0 30 0 50
+# h_min h_max enemy_min enemy_max goal_max enem_h_max coin_range detect_coin detect_enemy
+0 50 2 6 0 0 0 0 0
+#
+#runs if health less than half and enemies are far
+# random_mov mov_enemy mov_goal mov_from_enemy get_coin range_attack
+40 0 20 40 0 0
+# h_min h_max enemy_min enemy_max goal_max enem_h_max coin_range detect_coin detect_enemy
+0 50 6 0 0 0 0 0 0
+#
+#attacks  if health higher than half
+# random_mov mov_enemy mov_goal mov_from_enemy get_coin range_attack
+10 54 10 5 0 10
+# h_min h_max enemy_min enemy_max goal_max enem_h_max coin_range detect_coin detect_enemy
+0 0 0 0 0 0 0 0 0

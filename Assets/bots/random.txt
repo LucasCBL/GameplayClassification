@@ -1,0 +1,4 @@
+# random_mov mov_enemy mov_goal mov_from_enemy get_coin range_attack
+10 10 10 10 0 10
+# h_min h_max enemy_min enemy_max goal_max enem_h_max coin_range detect_coin detect_enemy
+0 0 0 0 0 0 0 0 0

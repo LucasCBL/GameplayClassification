@@ -1,0 +1,14 @@
+# random_mov mov_enemy mov_goal mov_from_enemy get_coin range_attack
+10 50 40 0 0 0
+# h_min h_max enemy_min enemy_max goal_max enem_h_max coin_range detect_coin detect_enemy
+19 0 0 7 0 0 0 0 0
+#
+# random_mov mov_enemy mov_goal mov_from_enemy get_coin range_attack
+0 0 90 10 0 0
+# h_min h_max enemy_min enemy_max goal_max enem_h_max coin_range detect_coin detect_enemy
+0 21 0 0 0 0 0 0 0
+#
+# random_mov mov_enemy mov_goal mov_from_enemy get_coin range_attack
+1 20 70 5 0 4
+# h_min h_max enemy_min enemy_max goal_max enem_h_max coin_range detect_coin detect_enemy
+0 0 0 0 0 0 0 0 0

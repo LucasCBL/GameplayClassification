@@ -1,0 +1,44 @@
+#goes towards goal if no enemy close & high health
+# random_mov mov_enemy mov_goal mov_from_enemy get_coin range_attack
+20 10 70 0 0 0
+# h_min h_max enemy_min enemy_max goal_max enem_h_max coin_range detect_coin detect_enemy
+70 0 8 0 0 0 0 0 0
+#
+#goes towards goal if no enemy close
+# random_mov mov_enemy mov_goal mov_from_enemy get_coin range_attack
+5 65 10 5 0 15
+# h_min h_max enemy_min enemy_max goal_max enem_h_max coin_range detect_coin detect_enemy
+70 0 5 9 0 0 0 0 0
+#
+#goes towards goal if no enemy close
+# random_mov mov_enemy mov_goal mov_from_enemy get_coin range_attack
+1 29 0 0 70 0
+# h_min h_max enemy_min enemy_max goal_max enem_h_max coin_range detect_coin detect_enemy
+70 0 0 0 0 0 0 0 0
+#
+# attacks if enemy is too close and health is high
+# random_mov mov_enemy mov_goal mov_from_enemy get_coin range_attack
+1 49 0 30 0 20
+# h_min h_max enemy_min enemy_max goal_max enem_h_max coin_range detect_coin detect_enemy
+40 0 0 5 0 0 0 0 0
+#
+# attacks if enemy is too close and health is high
+# random_mov mov_enemy mov_goal mov_from_enemy get_coin range_attack
+20 10 40 0 30 0
+# h_min h_max enemy_min enemy_max goal_max enem_h_max coin_range detect_coin detect_enemy
+40 0 0 0 0 0 0 0 0
+# attacks if enemy is too close and health is high
+# random_mov mov_enemy mov_goal mov_from_enemy get_coin range_attack
+1 19 0 30 0 50
+# h_min h_max enemy_min enemy_max goal_max enem_h_max coin_range detect_coin detect_enemy
+0 40 0 3 0 0 0 0 0
+# attacks if enemy is too close and health is high
+# random_mov mov_enemy mov_goal mov_from_enemy get_coin range_attack
+50 0 0 50 0 0
+# h_min h_max enemy_min enemy_max goal_max enem_h_max coin_range detect_coin detect_enemy
+0 60 0 0 0 0 0 0 0
+# attacks if enemy is too close and health is high
+# random_mov mov_enemy mov_goal mov_from_enemy get_coin range_attack
+20 0 80 0 0 0
+# h_min h_max enemy_min enemy_max goal_max enem_h_max coin_range detect_coin detect_enemy
+0 0 0 0 0 0 0 0 0
